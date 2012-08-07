@@ -2,5 +2,10 @@
 bin
 obj
 
+# Private Folders
+OwnConfig
+
 # mstest test results
 TestResults
+
+*.suo
